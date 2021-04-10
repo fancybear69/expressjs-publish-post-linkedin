@@ -1,6 +1,8 @@
 <h1 align="center">Coding Impulse </h1>
-<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
-&nbsp
+<p align="center">
+<a href="https://hack36.com" > <img src="http://bit.ly/BuiltAtHack36" height=20px align="center"> </a>
+   </p> 
+
 <p align="center">
     <img width="700" height="350" src="logo.jpeg" alt="App Logo" />
 </p>
