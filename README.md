@@ -1,10 +1,10 @@
-# Coding Impulse 
-
+<h1 align="center">Coding Impulse </h1>
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
 <p align="center">
-    <img width="700" height="700" src="images/logo.jpg" alt="App Logo" />
+    <img width="700" height="700" src="logo.jpeg" alt="App Logo" />
 </p>
+
 
 <h2>Table of Contents</h2>
 
